@@ -1,4 +1,5 @@
 # Sketch Framer 3
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/bomberstudios/sketch-framer-3?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 **BEWARE: The plugin is not yet ready for human consumption. Also: it requires Sketch 3.0.3 7882 or better, and Framer Generator Version 3.0.26 (30) or better**
 
